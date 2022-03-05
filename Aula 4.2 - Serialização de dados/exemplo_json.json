@@ -1,0 +1,19 @@
+{
+"primeiro_nome": "João",
+"sobrenome": "Silva",
+"passatempos": ["correr", "nadar", "jogar"],
+"idade": 35,
+"fumante": false,
+"possui_filhos": true,
+"possui_carro": null,
+"filhos": [
+   {
+     "primeiro_nome": "Aline",
+     "idade": 6
+   },
+   {
+     "primeiro_nome": "Enzo",
+     "idade": 8
+   }
+  ]
+}

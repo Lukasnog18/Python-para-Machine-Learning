@@ -1,0 +1,13 @@
+2021-12-11 00:22:21,155 | INFO -> O programa foi iniciado.
+2021-12-11 00:22:21,155 | DEBUG -> Iteração número 0
+2021-12-11 00:22:30,734 | DEBUG -> O usuário digitou o primeiro número: 1
+2021-12-11 00:22:31,602 | DEBUG -> O usuário digitou o segundo número: 2
+2021-12-11 00:22:31,603 | DEBUG -> Resultado da operação: 0.5
+2021-12-11 00:22:31,603 | DEBUG -> Iteração número 1
+2021-12-11 00:22:32,472 | DEBUG -> O usuário digitou o primeiro número: 2
+2021-12-11 00:22:33,498 | DEBUG -> O usuário digitou o segundo número: 0
+2021-12-11 00:22:33,498 | WARNING -> O usuário tentou fazer uma divisão por 0
+2021-12-11 00:22:33,499 | DEBUG -> Iteração número 2
+2021-12-11 00:22:35,035 | DEBUG -> O usuário digitou o primeiro número: 7
+2021-12-11 00:22:35,670 | ERROR -> Erro, caractere não esperado -> invalid literal for int() with base 10: 'a'
+2021-12-11 00:22:35,671 | INFO -> O programa foi finalizado.
